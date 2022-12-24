@@ -2,7 +2,7 @@
   An app that allows students to introduce themselves!
 
 # App Walk-though
-  <img src="https://media.giphy.com/media/1DdL9xWBkVVwbv0U6e/giphy.gif">
+  <img src="https://github.com/rcwoshimao/codepath-prework2/blob/main/Introduce%20Self.gif">
 
 # Required Features
   - [x] App displays an image of a school's logo
